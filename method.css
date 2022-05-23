@@ -1,0 +1,40 @@
+#h1 {
+    font-size:46px;
+    margin-top: 20px;
+text-align: center;
+
+
+}
+#h2 {
+    font-size:30px;
+
+}
+
+#p {
+    font-size:29px;
+    line-height: 1.5;
+}
+
+a {
+    text-decoration: none;
+    float: left;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 10px;
+    margin: 10px 5px;
+    background-color: gray;
+    color: white;
+    font-size: 20px;
+}
+
+.list-inline {
+    font-size: 30px;
+}
+
+header#page_header nav ul li {
+    list-style: none;
+}
+a:hover {
+    background-color: turquoise;
+    
+}

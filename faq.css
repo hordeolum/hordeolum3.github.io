@@ -1,0 +1,109 @@
+body {
+    background-image: url(question2.jpg);
+    opacity: 1;
+}
+
+#h1 {
+    font-size: 50px;
+
+    text-align: center;
+}
+#h2 {
+    font-size: 36px;
+}
+p {
+    font-size: 30px;
+}
+
+ a {
+    text-decoration: none;
+    float: left;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 10px;
+    margin: 0 5px;
+    background-color: gray;
+    color: white;
+    font-size: 20px;
+}
+
+.list-inline {
+    font-size: 30px;
+}
+
+header#page_header nav ul li {
+    list-style: none;
+}
+a:hover {
+    background-color: turquoise;
+    
+}
+
+#bfc {
+   background-color: white;
+   color:blue;
+   font-size:30px;
+   text-decoration: none;
+   float: left;
+   height: 40px;
+   line-height: 40px;
+   padding: 0;
+   margin: 0;
+}
+
+#eyeCg {
+    background-color: white;
+    color:blue;
+    font-size:30px;
+    text-decoration: none;
+    float: left;
+    height: 40px;
+    line-height: 40px;
+    padding: 0;
+    margin: 0;
+}
+#bfc2 {
+    background-color: white;
+    color:blue;
+    font-size:30px;
+    text-decoration: none;
+    float: left;
+    height: 40px;
+    line-height: 40px;
+    padding: 0;
+    margin: 0;
+}
+#eskm {
+    background-color: white;
+    color:blue;
+    font-size:30px;
+    text-decoration: none;
+    float: left;
+    height: 40px;
+    line-height: 40px;
+    padding: 0;
+    margin: 0;
+}
+#lim {
+    background-color: white;
+    color:blue;
+    font-size:30px;
+    text-decoration: none;
+    float: left;
+    height: 40px;
+    line-height: 40px;
+    padding: 0;
+    margin: 0;
+}
+
+#myopiaProg {
+    background-color: white;
+    color:blue;
+    font-size:30px;
+    text-decoration: none;
+    float: left;
+    height: 40px;
+    line-height: 40px;
+    padding: 0;
+    margin: 0;
+}

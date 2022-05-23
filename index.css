@@ -1,0 +1,79 @@
+#content {
+    font-size: 30px;
+    color:rgb(177, 31, 31);
+    justify-content: center;
+    text-align: center;
+    text-transform:uppercase;    
+
+}
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    z-index: 10;
+    font-size: 30px;
+}
+
+.dropdown_hover {
+    display: inline-block;
+    padding: 10px;
+    background-color: #323b40;
+    color: white;
+    cursor:pointer;
+    font-size: 39.5px;
+}
+.dropdown_hover {
+    background: #222;
+}
+
+.dropdown_menu {
+    position: absolute;
+    display:none;
+    top: 100%;
+    left: 0;
+    min-width: 200px;
+    background: white;
+    color: 323b40;
+    box-shadow: 0 3px 2px rgba (0,0,0,0.3);
+}
+.dropdown:hover .dropdown_menu {
+    display: block;
+}
+.dropdown_menu a {
+    display:block;
+    padding: 10px;
+    border: none;
+    text-decoration: none;
+    border-top: solid 1px 1px 
+}
+.dropdown_menu a:hover {
+    background: #e0e0e0;
+    color: 323b40;
+}
+
+  
+body {
+min-height: 100vh;
+display: flex;
+background-image: url(glasses2.jpg);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+
+
+.list-inline {
+    font-size: 30px;
+}
+
+header#page_header nav ul li {
+    list-style: none;
+}
+a:hover {
+    background-color: turquoise;
+    
+}
+
+

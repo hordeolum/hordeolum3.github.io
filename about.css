@@ -1,0 +1,46 @@
+body {
+    min-height: 100vh;
+
+    background-image: url(https://www.ppt-backgrounds.net/thumbs/best-photos-of-design-notebook-powerpoint--notebook-paper---photo-image.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#h1 {
+    font-size:40px;
+    text-align: center;
+}
+#p {
+    font-size:25px;
+    line-height: 1.5;
+    background-repeat: no-repeat;
+    height: auto;
+    margin-left: 100px;
+    
+}
+
+a {
+    
+    text-decoration: none;
+    float: left;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 10px;
+    margin: 10px 5px;
+    background-color: gray;
+    color: white;
+    font-size: 20px;
+}
+
+.list-inline {
+    font-size: 30px;
+}
+
+header#page_header nav ul li {
+    list-style: none;
+}
+a:hover {
+    background-color: turquoise;
+    
+}
